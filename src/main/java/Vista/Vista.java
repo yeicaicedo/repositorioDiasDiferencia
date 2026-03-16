@@ -31,5 +31,6 @@ public class Vista {
      public void mostrarResultado (int diferencia){
         System.out.println("Los dias de difencia son: " + diferencia);
         System.out.println("................................");
+        System.out.println("  ");
     }
 }
